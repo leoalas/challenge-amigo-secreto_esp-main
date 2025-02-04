@@ -5,8 +5,7 @@ Con esta herramienta, los usuarios pueden agregar nombres y generar un sorteo au
 
 ## Empezando
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. 
-Consulte la sección Implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+EN CONSTRUCCION.
 
 ### Requisitos previos
 
