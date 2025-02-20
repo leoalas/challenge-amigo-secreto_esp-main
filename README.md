@@ -1,76 +1,66 @@
-# Amigo Secreto
+<h1> Hello Soy Leonardo </h1>
+<h2>Frontend Developer</h2>
+Descripción
 
-Amigo Secreto" es una aplicación que permite realizar sorteos de intercambio de regalos de manera sencilla y rápida.
-Con esta herramienta, los usuarios pueden agregar nombres y generar un sorteo automático para asignar a una persona su "amigo secreto"
+"Amigo Secreto" es una aplicación que permite realizar sorteos de intercambio de regalos de manera sencilla y rápida. Con esta herramienta, los usuarios pueden agregar nombres y generar un sorteo automático para asignar a cada persona su "amigo secreto".
 
-## Empezando
+Características
 
-EN CONSTRUCCION.
+Agregar y eliminar participantes.
 
-### Requisitos previos
+Generar un sorteo aleatorio sin repeticiones.
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
+Muestra los resultados.
 
-```
-Dar ejemplos
-```
+Interfaz intuitiva y fácil de usar.
 
-### Instalación
+Capturas de pantalla
 
-Una serie de ejemplos paso a paso que le indican cómo poner en funcionamiento un entorno de desarrollo.
+Agrega aquí capturas de pantalla o videos mostrando la aplicación en funcionamiento.
 
-Di cuál será el paso
+Instalación
 
-```
-Dar el ejemplo
-```
+Para ejecutar este proyecto localmente, sigue estos pasos:
 
-Y repita
+Clona el repositorio:
 
-```
-hasta terminar
-```
+git clone https://github.com/leoalas/amigo-secreto.git
 
-Termine con un ejemplo de cómo obtener algunos datos del sistema o usarlos para una pequeña demostración.
+Accede al directorio del proyecto:
 
-## Ejecución de las pruebas
+cd amigo-secreto
 
-Explique cómo ejecutar las pruebas automatizadas para este sistema.
+Instala las dependencias necesarias:
 
-### Desglosar en pruebas de extremo a extremo
+npm install 
 
-Explique qué evalúan estas pruebas y por qué
+aplicación:
 
-```
-Dar un ejemplo
-```
+npm start  
 
-### Y pruebas de estilo de codificación
+Uso
 
-Explique qué evalúan estas pruebas y por qué
+Ingresa los nombres de los participantes.
 
-```
-Dar un ejemplo
-```
+Presiona el botón para realizar el sorteo.
 
-## Implementación
+Revisa los resultados y comparte con los participantes.
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+Problemas y soluciones
 
-## Construido con
+Si experimentas algún problema, revisa las soluciones comunes:
 
-* HTML-5
-* CSS
-* JAVASCRIPT
+Error al ejecutar la aplicación: Asegúrate de tener las dependencias instaladas correctamente.
 
+El sorteo asigna a una misma persona: Revisa que haya suficientes participantes.
 
-## Contribuyendo
+Contribuciones
 
-Lea [CONTRIBUTING.md](*******************) para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos solicitudes de extracción.
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abre un "issue" o envía un "pull request".
 
-## Control de versiones
+Licencia
 
-Usamos [SemVer](************) para controlar las versiones. Para conocer las versiones disponibles, consulte las [etiquetas de este repositorio](***********).
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente con fines personales o comerciales.
 
 ## Autores
 
